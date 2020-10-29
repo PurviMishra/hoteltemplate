@@ -1,0 +1,2 @@
+# hoteltemplate
+hotel template
