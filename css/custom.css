@@ -1,0 +1,219 @@
+html{
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+#aboutus{
+    font-size: 5vw;
+    font-family: 'Gilda Display', serif;
+}
+#his{
+    color:#c19b76;
+}
+alert-custom{
+    background-color:#6089D5;
+    color:#fff;
+  }
+/* /* #doh{
+    float: right;
+    width:100vw;
+   
+} */
+/* #doh1{
+    float: left;
+    width:50%;
+}
+#doh2{
+    float: right;
+    width: 50%;
+} */ 
+.pdoh{
+    color:white;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.cc{
+    width:14rem;
+    display:block;
+
+}
+.ctt{
+    text-align: center;
+    
+
+}
+.card{
+    /* border: none !important; */
+    margin:1vw !important;
+    padding:0 !important;
+}
+.cit {
+    width: 100%;
+    height: 17.5vw;
+    object-fit: cover;
+}
+#obr{
+    font-size: 6vw;
+    font-family: 'Gilda Display', serif;
+}
+#hl{
+    text-align: center;
+    padding-top: 2vw;
+}
+#hotel{
+    background-color:#fbf7f5;
+    border:1px solid black;
+}
+.cb{
+    padding-top:0;
+}
+.greheading{
+    color: gray;
+    text-transform: uppercase;
+}
+.btn{
+    background-color:#c19b76;
+}
+.button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    background-color:black;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+#sm{
+    font-size: 3vw;
+    font-family: 'Gilda Display', serif;
+
+}
+.button1 {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    background-color:#c19b76;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  #hs{
+  padding-top: 2vw;
+  color: white;
+  font-size: 5vw;
+  font-family: 'Gilda Display', serif;
+  text-align: center;
+}
+#hsb{
+    background-image:url("/css/Images/hotel18.jpg");
+    /* background-repeat: no-repeat; */
+    border:1px solid black;
+}
+#athh{
+    padding-top: 2vw;
+    color:black;
+    font-size: 5vw;
+    font-family: 'Gilda Display', serif;
+    text-align: center;
+}
+.cur{
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    font-size: 3vw;
+}
+#ath{
+    background-color:#fbf7f5 ;
+}
+.what{
+    position: relative;
+    width: 100%;
+    min-height: 1vw;
+    padding-right: 1vw;
+    padding-left: 1vw;
+    color:white;
+    font-family: 'Gilda Display', serif;
+    background-color:#2A5B66; 
+}
+#fan{
+    padding:7vw;
+    background-image:url("/css/Images/hotel19.jpg");
+    background-repeat: no-repeat;
+    background-position:center ;
+
+}
+#wtf{
+    color:rgb(243, 243, 243);
+    font-size: 5vw;
+    font-family: 'Gilda Display', serif;
+    text-align: center;
+}
+
+#fuh{
+    color:rgb(0, 0, 0);
+    font-size: 5vw;
+    font-family: 'Gilda Display', serif;
+    text-align: center;
+
+}
+#fuhh{
+    background-color:#fbf7f5 ;
+}
+.f{
+    text-align: center;
+}
+#social{
+    padding: 2vw;
+    background-color: black;
+    color: white;
+    font-family: 'Gilda Display', serif;
+}
+.up{
+    text-transform: uppercase;
+}
+.hf{
+    font-size: 2.5vw;
+}
+#s{
+    background-color:#c19b76;
+    border: none;
+    height: 2.3vw;
+}
+.si{
+    padding-left: 2vw;
+}
+footer{
+    text-align: center;
+    background-color:#333333;
+    color:white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+    padding-right: 5vw;
+    padding-left: 5vw;
+}
+ #ff{
+    height: 13rem;
+    background-color:#333333;
+    color: white;
+    padding: 2vw;
+    border: 1px solid black;
+} 
+.col-sm{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2vw;
+}
+form{
+    text-align: center;
+}
+h2{
+    font-size: 10rem;
+    font-family: 'Gilda Display', serif;
+}
